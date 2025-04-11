@@ -1,7 +1,7 @@
+# needs fixing
 <template>
     <div>
       <h2>Koka sijas slodzes aprēķins</h2>
-  
       <label>Sijas garums (L, m): <input type="number" v-model.number="L"></label>
       <label>Sijas platums (B, m): <input type="number" v-model.number="B"></label>
       <label>Sijas augstums (H, m): <input type="number" v-model.number="H"></label>
